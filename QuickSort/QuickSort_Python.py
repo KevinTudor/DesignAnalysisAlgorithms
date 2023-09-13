@@ -2,7 +2,7 @@
 """
 IDE: Spyder (Python 3.8)
 @author: Kevin Tudor
-Course: COT 4400: Design and Analysis of Algorithms
+Course: Design and Analysis of Algorithms
 Programming 1: Quicksort Algorithm
 Due: March 13, 2023 (Monday), 11:59PM
 """
